@@ -1,8 +1,8 @@
 ## Projeto em Python – Calculadora Multifuncional
 
-Recentemente desenvolvi um pequeno projeto em Python para a disciplina de Programação de Computadores, com o objetivo de praticar conceitos fundamentais de lógica de programação e estruturas de decisão.
+ - Desenvolvi um pequeno projeto em Python para a disciplina de Programação de Computadores, com o objetivo de praticar conceitos fundamentais de lógica de programação e estruturas de decisão.
 
-O projeto consiste em uma calculadora multifuncional no terminal, onde o usuário pode escolher diferentes tipos de cálculos através de um menu interativo. Entre as funcionalidades implementadas estão:
+ - O projeto consiste em uma calculadora multifuncional no terminal, onde o usuário pode escolher diferentes tipos de cálculos através de um menu interativo. Entre as funcionalidades implementadas estão:
 
  - Cálculo de média de quatro valores
  - Cálculo fatorial utilizando a biblioteca math
